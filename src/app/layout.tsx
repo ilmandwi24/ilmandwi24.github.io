@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   description: "Portofolio Ilman Dwi Website Developer",
 
   keywords: ["Ilman", "Ilman Dwi", "Portofolio", "Website Developer"],
+  verification: {
+    google: "3LDm-n2WQQvpUjH9M_DyV3m8IGIUvEu_DIE3lFnuKHI",
+  },
 };
 
 export default function RootLayout({
