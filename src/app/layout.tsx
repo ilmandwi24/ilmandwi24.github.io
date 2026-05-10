@@ -12,7 +12,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://ilmandwi24.github.io/"),
-  title: "Ilman Dwi Portofolio",
+  title: "Ilman Dwi",
   description: "Portofolio Ilman Dwi Website Developer",
 
   keywords: ["Ilman", "Ilman Dwi", "Portofolio", "Website Developer"],
