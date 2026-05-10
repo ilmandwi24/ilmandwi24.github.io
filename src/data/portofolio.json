@@ -1,0 +1,37 @@
+ [
+    {
+        "title": "Winteknogi Gaming Studio",
+        "description": "Website for a Gaming Studio",
+        "roles": ["Next.js"],
+        "image": "/images/portofolio/wgs-portofolio.webp",
+        "url": "https://winteknogigs.vercel.app/"
+    },
+    {
+        "title": "Country List",
+        "description": "Country List with Search and Filter",
+        "roles": ["React"],
+        "image": "/images/portofolio/countrylist.webp",
+        "url": "https://countrylist2024.netlify.app/"
+    },
+    {
+        "title": "Calculator App",
+        "description": "Calculator App with Dark Mode",
+        "roles": ["JavaScript"],
+        "image": "/images/portofolio/calculatorapp.webp",
+        "url": "https://calculatorapp2024.netlify.app/"
+    },
+      {
+        "title": "Hosting Provider",
+        "description": "Hosting Provider Landing Page",
+        "roles": ["React"],
+        "image": "/images/portofolio/hosting-provider.webp",
+        "url": "https://ilmandwi24.github.io/hosting-provider-react/"
+    },
+      {
+        "title": "Portofolio web",
+        "description": "Portofolio web",
+        "roles": ["JavaScript"],
+        "image": "/images/portofolio/portofolio-tailwindcss.webp",
+        "url": "https://ilmandwi24.github.io/portofolio-tailwindcss/"
+    }
+]

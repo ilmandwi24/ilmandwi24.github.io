@@ -1,0 +1,38 @@
+[
+    {
+        "date": "Mei 2025",
+        "title": "Belajar Membuat Front-End Web untuk Pemula",
+        "subtitle": "Dicoding Indonesia",
+        "urlSertifikat" : "https://www.dicoding.com/certificates/MRZMW69RNPYQ"
+    },
+      {
+        "date": "Mei 2025",
+        "title": "Belajar Dasar Pemrograman JavaScript",
+        "subtitle": "Dicoding Indonesia",
+        "urlSertifikat" : "https://www.dicoding.com/certificates/L4PQ92N4QPO1"
+    },
+      {
+        "date": "Mei 2025",
+        "title": "Belajar Dasar Pemrograman Web",
+        "subtitle": "Dicoding Indonesia",
+        "urlSertifikat" : "https://www.dicoding.com/certificates/L4PQ92DWVPO1"
+    },
+    {
+        "date": "November 2024",
+        "title": "Belajar Back-End Pemula dengan JavaScript",
+        "subtitle": "Dicoding Indonesia",
+          "urlSertifikat" : "https://www.dicoding.com/certificates/98XW5QJLWPM3"
+    },
+    {
+        "date": "September 2024",
+        "title": "Bootcamp Fullstack JavaScript",
+        "subtitle": "Phincon Academy",
+          "urlSertifikat" : "https://drive.google.com/file/d/1HVUj1GS_Lb1I9-6RbprsPAeUBQcNtVBX/view"
+    },
+     {
+        "date": "Agustus 2023",
+        "title": "NodeJS : Pemula sampai Mahir",
+        "subtitle": "Udemy - Programmer Zaman Now",
+          "urlSertifikat" : "https://www.udemy.com/certificate/UC-56d182c5-90bf-4d2e-b9b2-385611a30282/"
+    }
+]
